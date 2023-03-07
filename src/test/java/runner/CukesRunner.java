@@ -7,6 +7,8 @@ import org.junit.runner.*;
 @CucumberOptions(
         plugin = {
                 "html:target/cucumber-reports.html",
+                "junit:target/junit/junit-report.xml",
+                "json:target/cucumber.json",
         },
         features = "src/test/resources/features",
         glue = "step_definitions",

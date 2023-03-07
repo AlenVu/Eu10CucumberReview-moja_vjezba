@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4628d6b1-f46b-4055-9308-6ed28d3f2ee8" name="Changes" comment="zadnje">
-      <change beforePath="$PROJECT_DIR$/src/test/java/runner/CukesRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runner/CukesRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/dashboardTest.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/dashboardTest.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/vyTrackLoginTest.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/vyTrackLoginTest.feature" afterDir="false" />
-    </list>
+    <list default="true" id="4628d6b1-f46b-4055-9308-6ed28d3f2ee8" name="Changes" comment="zadnje" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -119,7 +114,7 @@
       <workItem from="1677946018727" duration="2242000" />
       <workItem from="1677949151018" duration="4667000" />
       <workItem from="1678175083296" duration="721000" />
-      <workItem from="1678195397879" duration="1120000" />
+      <workItem from="1678195397879" duration="1499000" />
     </task>
     <task id="LOCAL−00001" summary="update">
       <created>1677950016773</created>
@@ -139,7 +134,13 @@
       <option name="presentableId" value="LOCAL−00003" />
       <updated>1678195832302</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL−00004" summary="zadnje">
+      <created>1678196974290</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1678196974290</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
