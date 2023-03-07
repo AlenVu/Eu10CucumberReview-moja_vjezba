@@ -4,9 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4628d6b1-f46b-4055-9308-6ed28d3f2ee8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
+    <list default="true" id="4628d6b1-f46b-4055-9308-6ed28d3f2ee8" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/DashboardPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/VyTrackLoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/step_definitions/DashboardTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/step_definitions/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/BrowserUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ConfigurationReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/dashboardTest.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/runner/CukesRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runner/CukesRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/step_definitions/VyTrackLoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/step_definitions/VyTrackLoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/vyTrackLoginTest.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/vyTrackLoginTest.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,25 +51,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Acer/Desktop/IdeaProjects/Eu10CucumberReview",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Acer\Desktop\IdeaProjects\Eu10CucumberReview\src\test\java" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="runner" />
     </key>
   </component>
-  <component name="RunManager" selected="Cucumber Java.Scenario: happy login test">
+  <component name="RunManager" selected="JUnit.CukesRunner">
     <configuration name="Scenario: happy login test" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/vyTrackLoginTest.feature" />
@@ -94,8 +113,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Cucumber Java.Scenario: happy login test" />
         <item itemvalue="JUnit.CukesRunner" />
+        <item itemvalue="Cucumber Java.Scenario: happy login test" />
       </list>
     </recent_temporary>
   </component>
@@ -108,11 +127,23 @@
       <option name="presentableId" value="Default" />
       <updated>1677946017359</updated>
       <workItem from="1677946018727" duration="2242000" />
-      <workItem from="1677949151018" duration="521000" />
+      <workItem from="1677949151018" duration="4667000" />
+      <workItem from="1678175083296" duration="721000" />
     </task>
+    <task id="LOCAL−00001" summary="update">
+      <created>1677950016773</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1677950016773</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>
